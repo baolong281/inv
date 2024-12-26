@@ -1,0 +1,4 @@
+(executable
+ (public_name inv)
+ (name main)
+ (libraries base inv graphics))

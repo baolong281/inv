@@ -1,0 +1,3 @@
+(library
+ (name inv)
+ (libraries base graphics unix))
